@@ -205,3 +205,4 @@ Terminating in response to SpringBoard's termination.
 2013-09-28 17:11:27.937 BigByte[94023:19103] THREAD WARNING: ['Media'] took '609.461182' ms. Plugin should use a background thread.
 2013-09-28 17:11:34.355 BigByte[94023:19103] Resetting plugins due to page load.
 2013-09-28 17:11:34.401 BigByte[94023:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/finished.html
+Terminating in response to SpringBoard's termination.
