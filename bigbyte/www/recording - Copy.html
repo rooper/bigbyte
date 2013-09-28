@@ -45,13 +45,8 @@
     function onSuccess() {
         console.log("recordAudio():Audio Success");
         //alert('Playing media');
-        document.getElementById('mdisp').innerHTML = 'Converting recorded audio...';
-        //mediaRec.play();
-        //make AJAX request here
-        document.getElementById('mdisp').innerHTML = 'Computing summary...';
-        //jeremy's algorithm here
-        document.getElementById('mdisp').innerHTML = 'Displaying results...';
-        //Hezhi's code here 
+        document.getElementById('mdisp').innerHTML = 'Playing recorded audio.';
+        mediaRec.play();
         
     }
 
@@ -68,8 +63,6 @@
         document.getElementById('audio_position').innerHTML = position;
     }
 	
-	
-	
     </script>
   </head>
   <body>
@@ -81,36 +74,6 @@
 	</div>
     <hr>
     <p style='padding: 10px';>Tag cloud/list appears here</p>
-	
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>SaveMenu</title>
-  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
-  <style>
-  .ui-menu {
-    width: 250px;
-  }
-  </style>
-  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
-</head>
-<body>
- 
-<ul id="menu">
-  <li><a href="#">Item 1</a></li>
-  <li><a href="#">Item 2</a></li>
-  <li><a href="#">Item 3</a></li>
-  <li><a href="#">Item 4</a></li>
-  <li><a href="#">Item 5</a></li>
-</ul>
- 
-<script>
-$( "#menu" ).menu();
-</script>
- 
-</body>
-</html>
    
   </body>
 </html>
