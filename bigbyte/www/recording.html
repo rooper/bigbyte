@@ -45,8 +45,13 @@
     function onSuccess() {
         console.log("recordAudio():Audio Success");
         //alert('Playing media');
-        document.getElementById('mdisp').innerHTML = 'Playing recorded audio.';
-        mediaRec.play();
+        document.getElementById('mdisp').innerHTML = 'Converting recorded audio...';
+        //mediaRec.play();
+        //make AJAX request here
+        document.getElementById('mdisp').innerHTML = 'Computing summary...';
+        //jeremy's algorithm here
+        document.getElementById('mdisp').innerHTML = 'Displaying results...';
+        //Hezhi's code here 
         
     }
 
