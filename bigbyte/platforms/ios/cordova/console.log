@@ -8,3 +8,200 @@ Terminating in response to SpringBoard's termination.
 2013-09-27 21:45:13.421 BigByte[79686:19103] Multi-tasking -> Device: YES, App: YES
 2013-09-27 21:45:13.464 BigByte[79686:19103] Resetting plugins due to page load.
 2013-09-27 21:45:13.649 BigByte[79686:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-09-27 23:12:49.444 BigByte[81640:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-27 23:12:49.583 BigByte[81640:19103] Resetting plugins due to page load.
+2013-09-27 23:12:51.721 BigByte[81640:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-27 23:12:59.458 BigByte[81640:19103] Unbalanced calls to begin/end appearance transitions for <_UIFallbackPresentationViewController: 0xa8561b0>.
+2013-09-27 23:18:29.379 BigByte[82035:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-27 23:18:29.503 BigByte[82035:19103] Resetting plugins due to page load.
+2013-09-27 23:18:29.592 BigByte[82035:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-27 23:26:46.677 BigByte[82600:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-27 23:26:47.327 BigByte[82600:19103] Resetting plugins due to page load.
+2013-09-27 23:26:48.676 BigByte[82600:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-27 23:31:03.507 BigByte[82600:19103] Simulator slow-motion animations are now on
+2013-09-28 15:15:20.888 BigByte[85663:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 15:15:21.214 BigByte[85663:19103] Resetting plugins due to page load.
+2013-09-28 15:15:21.440 BigByte[85663:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-09-28 15:18:54.865 BigByte[86067:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 15:18:54.922 BigByte[86067:19103] Resetting plugins due to page load.
+2013-09-28 15:18:54.976 BigByte[86067:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-09-28 15:38:56.122 BigByte[86738:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 15:38:56.207 BigByte[86738:19103] Resetting plugins due to page load.
+2013-09-28 15:38:56.473 BigByte[86738:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 15:38:57.483 BigByte[86738:1e703]  <0xb0469000> The default input device's sample rate was changed.
+2013-09-28 15:38:57.487 BigByte[86738:2102f]  <0xb056d000> Audio device's sample rate changed. You may need to restart the simulator.
+2013-09-28 15:38:57.516 BigByte[86738:1ab03]  <com.apple.audio.HALB_DispatchQueue.SerialQueue> Default audio device changed. Restart the simulator to have it use the newly-selected device.
+2013-09-28 15:38:58.228 BigByte[86738:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 15:38:58.229 BigByte[86738:19103] THREAD WARNING: ['Media'] took '1309.100342' ms. Plugin should use a background thread.
+2013-09-28 15:39:07.238 BigByte[86738:19103] Stopped recording audio sample 'myrecording.wav'
+2013-09-28 15:39:07.258 BigByte[86738:19103] THREAD WARNING: ['Media'] took '20.404785' ms. Plugin should use a background thread.
+2013-09-28 15:39:07.264 BigByte[86738:19103] Finished recording audio sample 'myrecording.wav'
+Terminating in response to SpringBoard's termination.
+2013-09-28 15:43:33.505 BigByte[87158:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 15:43:33.662 BigByte[87158:19103] Resetting plugins due to page load.
+2013-09-28 15:43:34.030 BigByte[87158:1b403] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 15:43:34.031 BigByte[87158:1b403] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 15:43:34.031 BigByte[87158:1b403] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 15:43:34.164 BigByte[87158:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 15:43:35.039 BigByte[87158:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 15:43:35.039 BigByte[87158:19103] THREAD WARNING: ['Media'] took '809.924072' ms. Plugin should use a background thread.
+2013-09-28 15:43:44.235 BigByte[87158:19103] Stopped recording audio sample 'myrecording.wav'
+2013-09-28 15:43:44.254 BigByte[87158:19103] THREAD WARNING: ['Media'] took '18.729980' ms. Plugin should use a background thread.
+2013-09-28 15:43:44.263 BigByte[87158:19103] Finished recording audio sample 'myrecording.wav'
+Terminating in response to SpringBoard's termination.
+2013-09-28 15:52:43.432 BigByte[87718:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 15:52:43.512 BigByte[87718:19103] Resetting plugins due to page load.
+2013-09-28 15:52:43.695 BigByte[87718:1b503] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 15:52:43.697 BigByte[87718:1b503] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 15:52:43.698 BigByte[87718:1b503] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 15:52:43.729 BigByte[87718:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 15:52:44.470 BigByte[87718:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 15:52:44.471 BigByte[87718:19103] THREAD WARNING: ['Media'] took '711.672119' ms. Plugin should use a background thread.
+2013-09-28 15:52:53.765 BigByte[87718:19103] Stopped recording audio sample 'myrecording.wav'
+2013-09-28 15:52:53.778 BigByte[87718:19103] THREAD WARNING: ['Media'] took '13.023926' ms. Plugin should use a background thread.
+2013-09-28 15:52:53.791 BigByte[87718:19103] Finished recording audio sample 'myrecording.wav'
+2013-09-28 16:19:13.929 BigByte[88526:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 16:19:14.038 BigByte[88526:19103] Resetting plugins due to page load.
+2013-09-28 16:19:14.212 BigByte[88526:1b403] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 16:19:14.213 BigByte[88526:1b403] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 16:19:14.213 BigByte[88526:1b403] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 16:19:14.257 BigByte[88526:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 16:19:14.362 BigByte[88526:19103] THREAD WARNING: ['Media'] took '52.245850' ms. Plugin should use a background thread.
+2013-09-28 16:19:15.123 BigByte[88526:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 16:19:15.125 BigByte[88526:19103] THREAD WARNING: ['Media'] took '761.419189' ms. Plugin should use a background thread.
+2013-09-28 16:19:17.662 BigByte[88526:19103] Resetting plugins due to page load.
+2013-09-28 16:19:17.738 BigByte[88526:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/native.html
+Terminating in response to SpringBoard's termination.
+2013-09-28 16:25:04.993 BigByte[89014:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 16:25:05.063 BigByte[89014:19103] Resetting plugins due to page load.
+2013-09-28 16:25:05.201 BigByte[89014:1b603] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 16:25:05.203 BigByte[89014:1b603] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 16:25:05.204 BigByte[89014:1b603] ERROR whitelist rejection: url='http://debug.phonegap.com/target/target-script-min.js'
+2013-09-28 16:25:05.351 BigByte[89014:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 16:25:06.021 BigByte[89014:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 16:25:06.022 BigByte[89014:19103] THREAD WARNING: ['Media'] took '642.122070' ms. Plugin should use a background thread.
+2013-09-28 16:25:15.386 BigByte[89014:19103] Stopped recording audio sample 'myrecording.wav'
+2013-09-28 16:25:15.392 BigByte[89014:19103] Finished recording audio sample 'myrecording.wav'
+Terminating in response to SpringBoard's termination.
+2013-09-28 16:34:01.041 BigByte[89656:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 16:34:01.158 BigByte[89656:19103] Resetting plugins due to page load.
+2013-09-28 16:34:01.308 BigByte[89656:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 16:34:04.071 BigByte[89656:19103] Resetting plugins due to page load.
+2013-09-28 16:34:04.079 BigByte[89656:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:34:06.163 BigByte[89656:19103] Resetting plugins due to page load.
+2013-09-28 16:34:06.173 BigByte[89656:19103] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2013-09-28 16:35:31.201 BigByte[90079:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 16:35:31.245 BigByte[90079:19103] Resetting plugins due to page load.
+2013-09-28 16:35:31.315 BigByte[90079:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 16:38:04.184 BigByte[90079:19103] Resetting plugins due to page load.
+2013-09-28 16:38:04.198 BigByte[90079:19103] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2013-09-28 16:46:12.874 BigByte[90584:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 16:46:12.999 BigByte[90584:19103] Resetting plugins due to page load.
+2013-09-28 16:46:13.324 BigByte[90584:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 16:46:41.358 BigByte[90584:19103] Resetting plugins due to page load.
+2013-09-28 16:46:41.402 BigByte[90584:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/recording.html
+2013-09-28 16:46:42.055 BigByte[90584:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 16:46:42.056 BigByte[90584:19103] THREAD WARNING: ['Media'] took '606.218018' ms. Plugin should use a background thread.
+2013-09-28 16:46:51.419 BigByte[90584:19103] Stopped recording audio sample 'myrecording.wav'
+2013-09-28 16:46:51.433 BigByte[90584:19103] THREAD WARNING: ['Media'] took '14.257080' ms. Plugin should use a background thread.
+2013-09-28 16:46:51.445 BigByte[90584:19103] Finished recording audio sample 'myrecording.wav'
+Terminating in response to SpringBoard's termination.
+2013-09-28 16:49:16.738 BigByte[91046:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 16:49:16.784 BigByte[91046:19103] Resetting plugins due to page load.
+2013-09-28 16:49:16.838 BigByte[91046:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 16:49:24.195 BigByte[91046:19103] Resetting plugins due to page load.
+2013-09-28 16:49:24.230 BigByte[91046:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/recording.html
+2013-09-28 16:49:24.838 BigByte[91046:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 16:49:24.839 BigByte[91046:19103] THREAD WARNING: ['Media'] took '588.084961' ms. Plugin should use a background thread.
+2013-09-28 16:49:34.255 BigByte[91046:19103] Stopped recording audio sample 'myrecording.wav'
+2013-09-28 16:49:34.275 BigByte[91046:19103] THREAD WARNING: ['Media'] took '19.472900' ms. Plugin should use a background thread.
+2013-09-28 16:49:34.283 BigByte[91046:19103] Finished recording audio sample 'myrecording.wav'
+Terminating in response to SpringBoard's termination.
+2013-09-28 16:54:33.013 BigByte[91665:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 16:54:33.059 BigByte[91665:19103] Resetting plugins due to page load.
+2013-09-28 16:54:33.118 BigByte[91665:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 16:54:46.488 BigByte[91665:19103] Resetting plugins due to page load.
+2013-09-28 16:54:46.568 BigByte[91665:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/recording.html
+2013-09-28 16:54:47.174 BigByte[91665:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 16:54:47.174 BigByte[91665:19103] THREAD WARNING: ['Media'] took '579.697021' ms. Plugin should use a background thread.
+2013-09-28 16:54:53.112 BigByte[91665:19103] Resetting plugins due to page load.
+2013-09-28 16:54:53.134 BigByte[91665:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:54:56.098 BigByte[91665:19103] Resetting plugins due to page load.
+2013-09-28 16:54:56.105 BigByte[91665:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:54:58.009 BigByte[91665:19103] Resetting plugins due to page load.
+2013-09-28 16:54:58.021 BigByte[91665:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:55:00.567 BigByte[91665:19103] Resetting plugins due to page load.
+2013-09-28 16:55:00.573 BigByte[91665:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:55:04.653 BigByte[91665:19103] Resetting plugins due to page load.
+2013-09-28 16:55:04.672 BigByte[91665:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:55:05.566 BigByte[91665:19103] Resetting plugins due to page load.
+2013-09-28 16:55:05.571 BigByte[91665:19103] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2013-09-28 16:57:59.191 BigByte[92090:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 16:57:59.522 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:57:59.681 BigByte[92090:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 16:58:11.793 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:58:11.834 BigByte[92090:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/recording.html
+2013-09-28 16:58:12.463 BigByte[92090:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 16:58:12.464 BigByte[92090:19103] THREAD WARNING: ['Media'] took '603.748047' ms. Plugin should use a background thread.
+2013-09-28 16:58:20.172 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:58:20.309 BigByte[92090:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:58:21.706 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:58:21.710 BigByte[92090:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:58:22.476 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:58:22.481 BigByte[92090:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:58:25.503 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:58:25.514 BigByte[92090:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:58:25.879 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:58:25.882 BigByte[92090:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:58:26.192 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:58:26.194 BigByte[92090:19103] Failed to load webpage with error: The requested URL was not found on this server.
+2013-09-28 16:58:27.604 BigByte[92090:19103] Resetting plugins due to page load.
+2013-09-28 16:58:27.906 BigByte[92090:19103] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2013-09-28 17:01:22.727 BigByte[92667:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 17:01:22.784 BigByte[92667:19103] Resetting plugins due to page load.
+2013-09-28 17:01:22.891 BigByte[92667:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 17:01:29.845 BigByte[92667:19103] Resetting plugins due to page load.
+2013-09-28 17:01:29.868 BigByte[92667:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/recording.html
+2013-09-28 17:01:30.505 BigByte[92667:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 17:01:30.506 BigByte[92667:19103] THREAD WARNING: ['Media'] took '582.004150' ms. Plugin should use a background thread.
+2013-09-28 17:01:39.926 BigByte[92667:19103] Stopped recording audio sample 'myrecording.wav'
+2013-09-28 17:01:39.942 BigByte[92667:19103] THREAD WARNING: ['Media'] took '16.309814' ms. Plugin should use a background thread.
+2013-09-28 17:01:39.951 BigByte[92667:19103] Finished recording audio sample 'myrecording.wav'
+Terminating in response to SpringBoard's termination.
+2013-09-28 17:03:48.283 BigByte[93137:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 17:03:48.342 BigByte[93137:19103] Resetting plugins due to page load.
+2013-09-28 17:03:48.403 BigByte[93137:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 17:03:49.709 BigByte[93137:19103] Resetting plugins due to page load.
+2013-09-28 17:03:49.741 BigByte[93137:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/recording.html
+2013-09-28 17:03:50.346 BigByte[93137:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 17:03:50.349 BigByte[93137:19103] THREAD WARNING: ['Media'] took '581.802002' ms. Plugin should use a background thread.
+2013-09-28 17:03:59.773 BigByte[93137:19103] Stopped recording audio sample 'myrecording.wav'
+2013-09-28 17:03:59.793 BigByte[93137:19103] THREAD WARNING: ['Media'] took '19.792969' ms. Plugin should use a background thread.
+2013-09-28 17:03:59.801 BigByte[93137:19103] Finished recording audio sample 'myrecording.wav'
+Terminating in response to SpringBoard's termination.
+2013-09-28 17:06:01.857 BigByte[93570:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 17:06:01.931 BigByte[93570:19103] Resetting plugins due to page load.
+2013-09-28 17:06:02.032 BigByte[93570:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 17:06:58.119 BigByte[93570:19103] Resetting plugins due to page load.
+2013-09-28 17:06:58.142 BigByte[93570:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/recording.html
+2013-09-28 17:06:58.810 BigByte[93570:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 17:06:58.810 BigByte[93570:19103] THREAD WARNING: ['Media'] took '643.137939' ms. Plugin should use a background thread.
+2013-09-28 17:07:02.059 BigByte[93570:19103] Resetting plugins due to page load.
+2013-09-28 17:07:02.104 BigByte[93570:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/finished.html
+Terminating in response to SpringBoard's termination.
+2013-09-28 17:11:08.729 BigByte[94023:19103] Multi-tasking -> Device: YES, App: YES
+2013-09-28 17:11:08.826 BigByte[94023:19103] Resetting plugins due to page load.
+2013-09-28 17:11:09.074 BigByte[94023:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/index.html
+2013-09-28 17:11:27.265 BigByte[94023:19103] Resetting plugins due to page load.
+2013-09-28 17:11:27.303 BigByte[94023:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/recording.html
+2013-09-28 17:11:27.936 BigByte[94023:19103] Started recording audio sample 'myrecording.wav'
+2013-09-28 17:11:27.937 BigByte[94023:19103] THREAD WARNING: ['Media'] took '609.461182' ms. Plugin should use a background thread.
+2013-09-28 17:11:34.355 BigByte[94023:19103] Resetting plugins due to page load.
+2013-09-28 17:11:34.401 BigByte[94023:19103] Finished load of: file:///Users/loganrooper/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/387A77FD-8244-4195-9977-89F20A88AEDC/BigByte.app/www/finished.html
